@@ -161,6 +161,8 @@ nav ul li a{
         #about-section-notes{
             display:flex;
             flex-direction: column;
+            margin-left: auto;
+            margin-right: auto;
             align-items: center;
             width: 500px;
             margin-top: 25px;
