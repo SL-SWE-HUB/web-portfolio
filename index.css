@@ -164,7 +164,6 @@ nav ul li a{
             align-items: center;
             width: 500px;
             margin-top: 25px;
-            font-size: 18px;
         }
 
         #about-section-notes-header{
@@ -173,7 +172,7 @@ nav ul li a{
 
         #about-section-notes-details{
             width: 250px;
-            font-size: 20px;
+            font-size: 22px;
             overflow: scroll;
         }
 
