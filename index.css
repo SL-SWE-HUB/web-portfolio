@@ -184,16 +184,17 @@ nav ul li a{
 
         #project-section-projects{
             margin-top: 25px;
-            width: 300px;
+            width: 350px;
         }
 
         #project-section-projects-list{
-            height: 400px;
+            height: 500px;
+            margin: 0;
+            padding: 0;
         }
 
         #project-section-projects-list li{
-            padding: 10px;
-            width: 400px;
+
         }
 
         #project-section-projects-list li a{
