@@ -159,6 +159,10 @@ nav ul li a{
             font-size: 22px;
         }
 
+        #home-section-intro-username{
+            text-align: center;
+        }
+
         #about-section-notes{
             display:flex;
             flex-direction: column;
