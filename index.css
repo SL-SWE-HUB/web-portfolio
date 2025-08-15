@@ -215,6 +215,10 @@ nav ul li a{
             margin-bottom: 0;
         }
 
+        #contact-section-details-list{
+            margin-top: 10px;
+        }
+
         #contact-section-details-list li{
             margin-left: 5px;
             margin-right: 5px;
